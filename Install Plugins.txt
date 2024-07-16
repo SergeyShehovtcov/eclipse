@@ -1,0 +1,7 @@
+Установленные плагины:
+01. Eclipse Marketplace Client 1.10.3
+02. EGit - Git Integration for Eclipse 6.7.0
+03. Remote System Explorer (SSH, Telnet, FTP and DStore protocols) 3.5.0
+04. SonarLint 10.4
+05. Spring Tools 4 (aka Spring Tool Suite 4) 4.23.1.RELEASE
+06. Lombok 1.18.34
